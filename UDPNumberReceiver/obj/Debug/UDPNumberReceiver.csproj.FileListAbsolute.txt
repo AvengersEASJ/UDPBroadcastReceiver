@@ -1,0 +1,7 @@
+C:\source\Teknik\UDPNumberReceiver\bin\Debug\UDPNumberReceiver.exe.config
+C:\source\Teknik\UDPNumberReceiver\bin\Debug\UDPNumberReceiver.exe
+C:\source\Teknik\UDPNumberReceiver\bin\Debug\UDPNumberReceiver.pdb
+C:\source\Teknik\UDPNumberReceiver\obj\Debug\UDPNumberReceiver.csproj.CoreCompileInputs.cache
+C:\source\Teknik\UDPNumberReceiver\obj\Debug\UDPNumberReceiver.exe
+C:\source\Teknik\UDPNumberReceiver\obj\Debug\UDPNumberReceiver.pdb
+C:\source\Teknik\UDPNumberReceiver\obj\Debug\UDPNumberReceiver.csprojAssemblyReference.cache
